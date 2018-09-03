@@ -1,0 +1,27 @@
+
+TF1, TF2, TF3, TF4, TF5 -> Não se comunicam.
+
+Nomenclaturas:
+RTPC - Telefonia
+PSTM - Telefonia
+
+Bilhetagem:
+Os sistemas não devem ser fechados. Devem ser modulados e abertos.
+
+Tipos de central:
+*Central Tander T
+*Central de Transito - T
+*Central Local - L
+*Central Pública - P
+
+Voip - Central Voip
+
+Devemos ter Centrais Híbridas
+
+Interface dos bilhetes.
+serial , ethernet , hbu
+
+Tipo de ligação.
+vc1 = telefonia local
+vc2 = Mesma Região Telefônica, mesma Dezena. 
+vc3 = 
